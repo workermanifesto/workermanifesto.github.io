@@ -1,1 +1,1 @@
-# workermanifesto.github.io
+# Worker Manifesto
